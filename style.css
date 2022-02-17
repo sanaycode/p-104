@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(59, 255, 207, 0.68);
+    color:rgba(400, 400, 400, 1);
+}
+.heading{
+    width:80%;
+    font-size:22px;
+}
+#camera{
+    border:grey dashed 2px;
+    height:300px;
+    width:350px;
+}
